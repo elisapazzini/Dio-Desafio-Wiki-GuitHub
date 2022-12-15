@@ -1,4 +1,4 @@
-import styled from "styled-components";
+import styled from "styled-components"
 
 export const ItemContainer = styled.div`
     width: 80%;
@@ -6,17 +6,17 @@ export const ItemContainer = styled.div`
     h3 {
         font-size: 32px;
         color: #FAFAFA;
+        margin-bottom: 5px;
     }
 
     p {
-        font-size:16px;
+        font-size: 16px;
         color: #FAFAFA60;
-        margin-bottom:20px;
+        margin-bottom: 20px;
     }
 
     a.remover {
         color: #FF0000;
-        margin-top:20px;
     }
 
     hr {
